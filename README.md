@@ -39,11 +39,11 @@ Created by the Creators Eye team – simple tools that just work.
 ---
 
 ## 👨‍💻 About Creators Eye
-We build simple, privacy-focused tools that run entirely on your device.  
+We build this simple, privacy-focused tools that run entirely on your device.  
 No data collection. No tracking. Just tools that work.
 
-🌐 [creators-eye.com](https://creators-eye.com) (coming soon)  
-📧 [team@creators-eye.com](mailto:team@creators-eye.com)
+
+📧 [Creators Eye Email](mailto:Creatorseye@gmail.com)
 
 ---
 
