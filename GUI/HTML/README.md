@@ -1,10 +1,10 @@
-# 🌐 CEBT – HTML GUI Version
+# CEBT – HTML GUI Version
 
 The simplest way to test your laptop battery. One HTML file, no installation, works in any browser.
 
 ---
 
-## 📥 Download
+## Download
 
 [⬇️ Click here to download battery-reporter.html](./battery-reporter.html)
 
@@ -12,7 +12,7 @@ Right-click and select "Save link as..." to download the file.
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 1. **Open the file** in Chrome, Edge, Firefox, or Safari
 2. **First time only**: Click "I Agree" to accept the terms
@@ -25,24 +25,24 @@ Right-click and select "Save link as..." to download the file.
 
 ---
 
-## ✨ Features
+## Features
 
 | Feature | Description |
 |---------|-------------|
-| **Universal** | Works in Chrome, Edge, Firefox, Safari |
-| **Wake Lock** | Prevents your computer from sleeping during the test |
-| **5-minute logging** | Automatically records battery level every 5 minutes |
-| **Auto-stop at 5%** | Protects battery from deep discharge |
-| **Discharge chart** | Visual graph of battery drain after each test |
-| **Test comparison** | Compare durations of your last 5 tests |
-| **Dark mode** | Automatically matches your system theme |
-| **Folder selection** | Pick a folder for reports (Chrome/Edge) – falls back to ZIP for all browsers |
-| **Recovery** | If the tab closes accidentally, you can resume the test |
-| **Privacy first** | All data stays on your device – nothing is uploaded |
+| Universal | Works in Chrome, Edge, Firefox, Safari |
+| Wake Lock | Prevents your computer from sleeping during the test |
+| 5-minute logging | Automatically records battery level every 5 minutes |
+| Auto-stop at 5% | Protects battery from deep discharge |
+| Discharge chart | Visual graph of battery drain after each test |
+| Test comparison | Compare durations of your last 5 tests |
+| Dark mode | Automatically matches your system theme |
+| Folder selection | Pick a folder for reports (Chrome/Edge) – falls back to ZIP for all browsers |
+| Recovery | If the tab closes accidentally, you can resume the test |
+| Privacy first | All data stays on your device – nothing is uploaded |
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### Main Interface
 ![Main Interface](./screenshot-main.png)
@@ -55,7 +55,7 @@ Right-click and select "Save link as..." to download the file.
 
 ---
 
-## ❓ Frequently Asked Questions
+## Frequently Asked Questions
 
 **Q: Does it work in Firefox?**  
 A: Yes! Firefox is fully supported. Folder selection is not available, so reports are saved as ZIP files – which contain the same information.
@@ -74,7 +74,7 @@ A: Deep discharging lithium-ion batteries (below 5%) can permanently damage them
 
 ---
 
-## ⚠️ Troubleshooting
+## Troubleshooting
 
 | Problem | Solution |
 |---------|----------|
@@ -86,14 +86,14 @@ A: Deep discharging lithium-ion batteries (below 5%) can permanently damage them
 
 ---
 
-## 👨‍💻 About Creators Eye
+## About Creators Eye
 
 This tool is part of the Creators Eye collection – simple, privacy-focused tools that run entirely on your device.
 
-📧 **Email:** [Creatorseye@gmail.com](mailto:Creatorseye@gmail.com)
+Email: Creatorseye@gmail.com
 
 ---
 
-## 📜 License
+## License
 
 MIT – Free for everyone. Use, modify, and share.
