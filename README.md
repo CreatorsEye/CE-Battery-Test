@@ -15,7 +15,7 @@ Two powerful tools to test and analyze your laptop battery. Choose the one that 
 ✅ Dark/light mode  
 ✅ Just download and open
 
-![Browser Tool Preview](BROWSER-TOOL/screenshots/browser-preview.png)
+![Browser Tool Preview](./BROWSER-TOOL/screenshots/browser-preview.png)
 
 [⬇️ Download Browser Tool](./BROWSER-TOOL/battery-reporter.html) (right-click → Save As)
 
@@ -31,7 +31,7 @@ Two powerful tools to test and analyze your laptop battery. Choose the one that 
 ✅ Can be automated  
 ✅ Perfect for servers or remote testing
 
-![CLI Tool Preview](CLI-TOOL/screenshots/cli-preview.png)
+![CLI Tool Preview](./CLI-TOOL/screenshots/cli-preview.png)
 
 [⬇️ Download CLI Tool](./CLI-TOOL) (see folder for instructions)
 
