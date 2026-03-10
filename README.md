@@ -95,7 +95,7 @@ Health is estimated based on your actual discharge rate during tests.
 - No data collection
 - Open source – verify it yourself
 
-Read the full [Privacy Policy](./DOCS/legal/privacy.md).
+Read the full [Privacy Policy](./docs/legal/privacy.md).
 
 ---
 
