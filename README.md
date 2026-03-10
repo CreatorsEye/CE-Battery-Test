@@ -1,6 +1,7 @@
-# 🔋 Battery Reporter
+# 👁️ Creators Eye – Battery Reporter
 
-Two powerful tools to test and analyze your laptop battery. Choose the one that fits your style.
+**Two powerful tools to test and analyze your laptop battery.**  
+Created by the Creators Eye team – simple tools that just work.
 
 ---
 
@@ -37,6 +38,15 @@ Two powerful tools to test and analyze your laptop battery. Choose the one that 
 
 ---
 
+## 👨‍💻 About Creators Eye
+We build simple, privacy-focused tools that run entirely on your device.  
+No data collection. No tracking. Just tools that work.
+
+🌐 [creators-eye.com](https://creators-eye.com) (coming soon)  
+📧 [team@creators-eye.com](mailto:team@creators-eye.com)
+
+---
+
 ## 📖 Documentation
 - [Frequently Asked Questions](./docs/FAQ.md)
 - [Troubleshooting](./docs/troubleshooting.md)
@@ -48,5 +58,5 @@ MIT – Free for everyone. Use, modify, share.
 ---
 
 ## ⭐ Support
-- Found a bug? [Open an issue](../../issues)
-- Have an idea? [Start a discussion](../../discussions)
+- Found a bug? [Open an issue](https://github.com/CreatorsEye/battery-reporter/issues)
+- Have an idea? [Start a discussion](https://github.com/CreatorsEye/battery-reporter/discussions)
