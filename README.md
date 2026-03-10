@@ -1,60 +1,116 @@
-# 👁️ CEBT – Creators Eye Battery Tester
+# CEBT – Creators Eye Battery Tester
 
 Test your laptop battery health with one tool, three ways.
+100% free, open source, and privacy-focused.
 
 ---
 
-## 🎯 Choose Your Version
+## Features (All Versions)
 
-| Version | For You If... | What You Get |
-|---------|---------------|--------------|
-| **🌐 HTML GUI** | You want the simplest option | One HTML file, open in any browser |
-| **💻 Desktop GUI** | You prefer a standalone app | EXE for Windows, APP for macOS |
-| **⌨️ Command Line** | You love the terminal | Type `cebt /S` on any OS |
-
----
-
-## ✨ Features (All Versions)
-
-- **5-minute automatic logging** – tracks battery drain over time
-- **Auto-stops at 5%** – protects your battery from deep discharge
-- **Visual charts** – see your battery health at a glance
-- **Test comparison** – compare results from different days
-- **100% offline** – no data leaves your device
+- **5-minute logging** – Automatically records battery level every 5 minutes
+- **Auto-stop at 5%** – Protects battery from deep discharge
+- **Discharge chart** – Visual graph of battery drain
+- **Test comparison** – Compare results from different days
+- **Wake Lock** – Prevents computer from sleeping during test
+- **Dark mode** – Matches your system theme
+- **100% offline** – No data leaves your device
 - **Free & open source** – MIT license
 
 ---
 
-## 📥 Quick Download
+## Quick Start
 
-| Version | File | What to Do |
-|---------|------|------------|
-| 🌐 HTML GUI | [`battery-reporter.html`](./GUI/HTML/battery-reporter.html) | Download and open in browser |
-| 💻 Windows App | [`CEBT-GUI.exe`](./GUI/DESKTOP/windows/CEBT-GUI.exe) | Download and run |
-| 💻 Mac App | [`CEBT-GUI.app`](./GUI/DESKTOP/macos/CEBT-GUI.app) | Download and open |
-| ⌨️ CLI | [`cebt.py`](./CLI/BIN/cebt.py) | See CLI folder for installers |
+### HTML GUI (Simplest)
+1. Go to [GUI/HTML folder](./GUI/HTML/)
+2. Download `battery-reporter.html`
+3. Double-click to open in browser
+4. Click "I Agree", charge to 100%, unplug
+5. Click START TEST
+6. Wait for test to complete at 5%
+
+### Desktop GUI (Windows/Mac)
+1. Go to [GUI/DESKTOP folder](./GUI/DESKTOP/)
+2. Download the app for your OS
+3. Double-click to run
+4. Follow same steps as HTML version
+
+### CLI (All OS)
+1. Install Python 3.6 or higher
+2. Go to [CLI/BIN folder](./CLI/BIN/)
+3. Run installer for your OS
+4. Type `cebt /S` in terminal
 
 ---
 
-## 📚 Documentation
+## Repository Structure
 
-- [Quick Start Guide](./DOCS/quick-start.md) – get running in 1 minute
-- [FAQ](./DOCS/FAQ.md) – frequently asked questions
-- [CLI Commands](./DOCS/commands.md) – all terminal commands explained
-- [Troubleshooting](./DOCS/troubleshooting.md) – fix common issues
-- [Privacy Policy](./DOCS/legal/privacy.md) – your data stays yours
+**Root Files**
+- `README.md` – This file
+- `LICENSE` – MIT license
+
+**Folders**
+
+| Folder | Description |
+|--------|-------------|
+| [GUI/HTML](./GUI/HTML/) | Browser version – one HTML file, works everywhere |
+| [GUI/DESKTOP](./GUI/DESKTOP/) | Desktop apps for Windows and macOS |
+| [CLI/BIN](./CLI/BIN/) | CLI installers for end users |
+| [CLI/PYTHON-ONLY](./CLI/PYTHON-ONLY/) | Python source for developers |
+| [DOCS](./DOCS/) | Documentation and guides |
 
 ---
 
-## 👨‍💻 About Creators Eye
+## Documentation
 
-We build simple, privacy-focused tools that run entirely on your device.  
+| Document | Description |
+|----------|-------------|
+| [Quick Start Guide](./DOCS/quick-start.md) | Get running in 1 minute |
+| [FAQ](./DOCS/FAQ.md) | Frequently asked questions |
+| [CLI Commands](./DOCS/commands.md) | All terminal commands explained |
+| [Troubleshooting](./DOCS/troubleshooting.md) | Fix common issues |
+| [Privacy Policy](./DOCS/legal/privacy.md) | Your data stays yours |
+
+---
+
+## Battery Health Ratings
+
+| Rating | Estimated Full Charge |
+|--------|----------------------|
+| Excellent | 8+ hours |
+| Good | 6-8 hours |
+| Fair | 4-6 hours |
+| Poor | Less than 4 hours |
+
+Health is estimated based on your actual discharge rate during tests.
+
+---
+
+## Privacy
+
+**All versions are 100% offline. No data leaves your device.**
+
+- No tracking
+- No analytics
+- No cloud uploads
+- No data collection
+- Open source – verify it yourself
+
+Read the full [Privacy Policy](./DOCS/legal/privacy.md).
+
+---
+
+## About Creators Eye
+
+We build simple, privacy-focused tools that run entirely on your device.
 No data collection. No tracking. Just tools that work.
 
-📧 **Email:** [Creatorseye@gmail.com](mailto:Creatorseye@gmail.com)
+Email: Creatorseye@gmail.com
+GitHub Issues: https://github.com/CreatorsEye/battery-reporter/issues
 
 ---
 
-## 📜 License
+## License
 
 MIT – Free for everyone. Use, modify, and share.
+
+Copyright (c) 2026 Creators Eye Team
