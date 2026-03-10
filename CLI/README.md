@@ -1,10 +1,10 @@
-# ⌨️ CEBT – Command Line Interface
+# CEBT – Command Line Interface
 
 Test your battery from the terminal. Works on Windows, macOS, and Linux.
 
 ---
 
-## 📁 Two Ways to Use CLI
+## Two Ways to Use CLI
 
 | Folder | For Who |
 |--------|---------|
@@ -13,34 +13,35 @@ Test your battery from the terminal. Works on Windows, macOS, and Linux.
 
 ---
 
-## 🎯 Commands (Both Versions)
+## Quick Comparison
 
-| Command | Description |
-|---------|-------------|
-| `cebt /S` | Start a new battery test |
-| `cebt /R` | Show last test results in CLI table |
-| `cebt /C` | Compare all tests |
-| `cebt /L` | Open last report in browser |
-| `cebt /O "folder"` | Set output folder |
-| `cebt /H` | Show help |
+| Feature | BIN/ | PYTHON-ONLY/ |
+|---------|------|--------------|
+| Installation | One-click installers | pip install |
+| Target Audience | Regular users | Developers |
+| Code Modification | Not recommended | Full access |
+| Python Required | Yes (installer checks) | Yes |
 
 ---
 
-## ✨ Features
+## Which One Should You Use?
 
-- Same 5-minute logging as GUI version
-- Auto-stops at 5% to protect battery
-- Beautiful CLI tables
-- Test comparison
-- Works on Windows, macOS, Linux
-- 100% offline – no data leaves your device
+### Choose **BIN/** if:
+- You just want to use the tool
+- You want the easiest setup
+- You don't need to modify the code
+
+👉 [Go to BIN/ folder](./BIN/)
 
 ---
 
-## 📥 Quick Start
+### Choose **PYTHON-ONLY/** if:
+- You are a developer
+- You want to modify or contribute
+- You prefer installing with pip
 
-### For End Users
-Go to [BIN folder](./BIN/) and run the installer for your OS.
+👉 [Go to PYTHON-ONLY/ folder](./PYTHON-ONLY/)
 
-### For Developers
-Go to [PYTHON-ONLY folder](./PYTHON-ONLY/) and follow instructions.
+---
+
+## Common Commands (Both Versions)
