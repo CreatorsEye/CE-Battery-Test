@@ -39,11 +39,10 @@ Created by the Creators Eye team – simple tools that just work.
 ---
 
 ## 👨‍💻 About Creators Eye
-We build this simple, privacy-focused tools that run entirely on your device.  
+We build simple, privacy-focused tools that run entirely on your device.  
 No data collection. No tracking. Just tools that work.
 
-
-📧 [Creators Eye Email](mailto:Creatorseye@gmail.com)
+📧 **Email:** [Creatorseye@gmail.com](mailto:Creatorseye@gmail.com)
 
 ---
 
@@ -60,3 +59,4 @@ MIT – Free for everyone. Use, modify, share.
 ## ⭐ Support
 - Found a bug? [Open an issue](https://github.com/CreatorsEye/battery-reporter/issues)
 - Have an idea? [Start a discussion](https://github.com/CreatorsEye/battery-reporter/discussions)
+- Email us: [Creatorseye@gmail.com](mailto:Creatorseye@gmail.com)
